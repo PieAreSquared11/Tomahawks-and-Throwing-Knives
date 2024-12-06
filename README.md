@@ -1,6 +1,6 @@
 # Tomahawks and Throwing Knives
 
-A Minetest mod sure to make your time in this great game even better!
+A mod sure to make your time in this game even better!
 
 ## Features
 
@@ -10,5 +10,5 @@ A Minetest mod sure to make your time in this great game even better!
 
 ## Installation
 
-- Navigate to the Content Section as you open Minetest. Press "Browse Online Content" and Search for "Tomahawks and Throwing Knives." Press "Install" (the plus button) and your done!
+- Navigate to the Content Section as you open Luanti. Press "Browse Online Content" and Search for "Tomahawks and Throwing Knives." Press "Install" and your done!
 - Or you can download the mod folder here and place it in your Minetest mods folder.
