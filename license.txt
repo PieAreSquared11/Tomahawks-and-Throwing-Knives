@@ -1,0 +1,13 @@
+===========================================
+License for Tomahawks and Throwing Knives
+
+Copyright (c) 2024
+
+This mod is licensed under the CC-BY-SA-4.0.
+
+You are free to:
+- Use this mod in your Minetest game.
+- Modify the mod for personal use.
+- Share the mod, but please credit the original author.
+
+===========================================
